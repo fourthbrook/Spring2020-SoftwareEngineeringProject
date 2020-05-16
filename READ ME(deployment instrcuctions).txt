@@ -1,0 +1,9 @@
+To deploy one must download the source code.
+
+And download npm
+
+In an IDE(I used vscode) open up a terminal and run the command 'npm install --save'
+
+Then run the command 'npm start -- --reset-cache / npm start / react-native start '
+
+Finally with an android virtual machine or android device plugged into your computer run the command 'npx react-native run-android'

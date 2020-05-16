@@ -1,0 +1,14 @@
+nghbrly project requirements
+
+Functional Requirements
+- Allow users to register and create a profile.
+- Allow users to send a request for help.
+- Allow users to offer help.
+- The system will store uncompleted tasks.
+- The system will look for compatable uncompleted tasks in order from oldest to newest.
+
+Non-functional Requirements:
+- Allow useres to reset password.
+- Allow users to view a history of tasks completed.
+- Allow users to change personal info.
+- Allow users to change notification settings. 
